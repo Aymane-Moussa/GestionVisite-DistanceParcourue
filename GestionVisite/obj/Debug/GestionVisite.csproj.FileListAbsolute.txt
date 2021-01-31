@@ -1,0 +1,10 @@
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\bin\Debug\GestionVisite.exe.config
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\bin\Debug\GestionVisite.exe
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\bin\Debug\GestionVisite.pdb
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.csprojAssemblyReference.cache
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.Properties.Resources.resources
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.csproj.GenerateResource.cache
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.csproj.CoreCompileInputs.cache
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.exe
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.pdb
+D:\Geoinfo2 2020-2021\S3\Bases de données spatiales et relationnelles\mini projet 1\GestionVisite-master\GestionVisite\obj\Debug\GestionVisite.RésultatCalcDistPar.resources
